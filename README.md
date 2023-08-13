@@ -21,7 +21,9 @@ NodeJS
 CLI
 Installation
 Clone the latest Repository
-git clone https://github.com/rahulsups/nodejs-auth.git
+
+https://github.com/dushyanthhd/nodejs-auth.git
+
 
 Into the project directory
 cd nodejs-auth
